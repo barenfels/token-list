@@ -1,0 +1,34 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/cronus-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/cronus-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/cronus-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronus-finance/token-list.git"
+  },
+  "author": {
+    "name": "Bärenfels",
+    "email": "barenfels@gmail.com"
+  },
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cronus-finance/token-list/issues"
+  },
+  "homepage": "https://github.com/cronus-finance/token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
