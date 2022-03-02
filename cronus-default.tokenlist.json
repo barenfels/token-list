@@ -1,0 +1,16 @@
+{
+  "name": "Cronus Finance List",
+  "timestamp": "2022-03-02T18:25:02.896Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/cronus-finance/interface/main/public/images/512x512_App_Icon.png",
+  "keywords": [
+    "cronus",
+    "default"
+  ],
+  "tokens": []
+}
