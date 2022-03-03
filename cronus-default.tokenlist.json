@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-03-02T18:25:02.896Z",
+  "timestamp": "2022-03-03T15:30:13.553Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -12,5 +12,22 @@
     "cronus",
     "default"
   ],
-  "tokens": []
+  "tokens": [
+    {
+      "name": "Test Token",
+      "address": "0xcF5ef8d007a616066e5eaEa0916592374a0F478D",
+      "symbol": "TST",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": ""
+    },
+    {
+      "name": "Wrapped Evmos",
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "symbol": "WEVMOS",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": ""
+    }
+  ]
 }
