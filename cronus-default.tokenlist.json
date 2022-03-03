@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "Test Token",
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "address": "0x5AC8D90E1Ea53bF084c78deb1B62e4b92D6Fc9B8",
       "symbol": "TST",
       "decimals": 18,
       "chainId": 9000
