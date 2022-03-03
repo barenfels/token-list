@@ -18,16 +18,14 @@
       "address": "0xcF5ef8d007a616066e5eaEa0916592374a0F478D",
       "symbol": "TST",
       "decimals": 18,
-      "chainId": 9000,
-      "logoURI": ""
+      "chainId": 9000
     },
     {
       "name": "Wrapped Evmos",
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WEVMOS",
       "decimals": 18,
-      "chainId": 9000,
-      "logoURI": ""
+      "chainId": 9000
     }
   ]
 }
