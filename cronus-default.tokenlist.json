@@ -31,7 +31,7 @@
     },
     {
       "name": "USD Coin",
-      "address": "0x0f442e514a3f96bb260e719a88523b082eb7498c",
+      "address": "0x0F442e514A3F96bb260e719A88523B082eB7498c",
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 4,
