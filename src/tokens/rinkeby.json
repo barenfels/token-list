@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Wrapped Evmos",
+        "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+        "symbol": "WEVMOS",
+        "decimals": 18,
+        "chainId": 4,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/rinkeby/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      },
+      {
+        "name": "rCronus",
+        "address": "0x7182f79225019356FB718cF464AD1A3eB6129429",
+        "symbol": "TST",
+        "decimals": 18,
+        "chainId": 4,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/rinkeby/0x7182f79225019356FB718cF464AD1A3eB6129429/logo.png"
+      }
+]
