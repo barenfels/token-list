@@ -18,7 +18,7 @@
       {
         "name": "tCronus",
         "address": "0x8Ce12Cb0CBAE2463b7f0f659449E2fD4988dB5B1",
-        "symbol": "TST",
+        "symbol": "CRN",
         "decimals": 18,
         "chainId": 9000,
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x8Ce12Cb0CBAE2463b7f0f659449E2fD4988dB5B1/logo.png"
