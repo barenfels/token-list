@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-03-30T15:17:46.143Z",
+  "timestamp": "2022-03-30T15:57:57.480Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -20,6 +20,22 @@
       "decimals": 18,
       "chainId": 4,
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x7182f79225019356FB718cF464AD1A3eB6129429/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x0f442e514a3f96bb260e719a88523b082eb7498c",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x0f442e514a3f96bb260e719a88523b082eb7498c/logo.png"
     },
     {
       "name": "Wrapped Evmos",
