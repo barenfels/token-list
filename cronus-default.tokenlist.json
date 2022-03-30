@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-03-30T14:21:19.653Z",
+  "timestamp": "2022-03-30T14:26:48.647Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -19,7 +19,7 @@
       "symbol": "TST",
       "decimals": 18,
       "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/rinkeby/0x7182f79225019356FB718cF464AD1A3eB6129429/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x7182f79225019356FB718cF464AD1A3eB6129429/logo.png"
     },
     {
       "name": "Wrapped Evmos",
@@ -27,7 +27,7 @@
       "symbol": "WEVMOS",
       "decimals": 18,
       "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/rinkeby/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
       "name": "Test Token",
@@ -43,7 +43,7 @@
       "symbol": "TST",
       "decimals": 18,
       "chainId": 9000,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/evmos_testnet/0x8Ce12Cb0CBAE2463b7f0f659449E2fD4988dB5B1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x8Ce12Cb0CBAE2463b7f0f659449E2fD4988dB5B1/logo.png"
     },
     {
       "name": "Wrapped Evmos",
@@ -51,7 +51,7 @@
       "symbol": "WEVMOS",
       "decimals": 18,
       "chainId": 9000,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/evmos_testnet/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     }
   ]
 }
