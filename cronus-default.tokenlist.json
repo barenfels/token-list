@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-03-30T15:57:57.480Z",
+  "timestamp": "2022-03-31T15:40:58.019Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "name": "Cosmos",
+      "address": "0xEbf034361B20592090C916b630DB77cb96B84CdC",
+      "symbol": "ATOM",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xEbf034361B20592090C916b630DB77cb96B84CdC/logo.png"
+    },
+    {
       "name": "rCronus",
       "address": "0x7182f79225019356FB718cF464AD1A3eB6129429",
       "symbol": "CRN",
@@ -23,11 +31,27 @@
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+      "address": "0x7501664055e0aE92dBAC4A658B893D8Fde3B61F4",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x7501664055e0aE92dBAC4A658B893D8Fde3B61F4/logo.png"
+    },
+    {
+      "name": "Frax",
+      "address": "0xcAD65DfF50050b175EDe9e9A6A7A1BDd4D08E920",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xcAD65DfF50050b175EDe9e9A6A7A1BDd4D08E920/logo.png"
+    },
+    {
+      "name": "Osmosis",
+      "address": "0xe0BD2B25Bf0F71D4b93849a0fB4b224B9B5F83d6",
+      "symbol": "OSMO",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xe0BD2B25Bf0F71D4b93849a0fB4b224B9B5F83d6/logo.png"
     },
     {
       "name": "USD Coin",
@@ -35,7 +59,31 @@
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x0f442e514a3f96bb260e719a88523b082eb7498c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x0F442e514A3F96bb260e719A88523B082eB7498c/logo.png"
+    },
+    {
+      "name": "USD Tether",
+      "address": "0x9217841449B20C189efD1e4587148bA9a8627BDd",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x9217841449B20C189efD1e4587148bA9a8627BDd/logo.png"
+    },
+    {
+      "name": "Terra USD",
+      "address": "0x3Dc30d756A1382BF454dD6bDb48b7225CA214bB3",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x3Dc30d756A1382BF454dD6bDb48b7225CA214bB3/logo.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "address": "0x85Dea6042da8Cf5B210E97797ba56594B9BfA914",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0x85Dea6042da8Cf5B210E97797ba56594B9BfA914/logo.png"
     },
     {
       "name": "Wrapped Evmos",
