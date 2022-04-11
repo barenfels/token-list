@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-03-31T15:40:58.019Z",
+  "timestamp": "2022-04-11T14:29:59.612Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -94,6 +94,14 @@
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/rinkeby/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
+      "name": "Cosmos",
+      "address": "0x41f67a991b687149f96D7C51B83D3Fc4125b6bC1",
+      "symbol": "ATOM",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x41f67a991b687149f96D7C51B83D3Fc4125b6bC1/logo.png"
+    },
+    {
       "name": "tCronus",
       "address": "0x8Ce12Cb0CBAE2463b7f0f659449E2fD4988dB5B1",
       "symbol": "CRN",
@@ -102,12 +110,68 @@
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x8Ce12Cb0CBAE2463b7f0f659449E2fD4988dB5B1/logo.png"
     },
     {
+      "name": "Dai Stablecoin",
+      "address": "0x0440d475455436c7B1bf6Ed42E8Fd6299789a65a",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x0440d475455436c7B1bf6Ed42E8Fd6299789a65a/logo.png"
+    },
+    {
+      "name": "Frax",
+      "address": "0xaC78A55960D01DB6f08be95952A17b8D0103F3f7",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0xaC78A55960D01DB6f08be95952A17b8D0103F3f7/logo.png"
+    },
+    {
+      "name": "Osmosis",
+      "address": "0xE6c5A550ca454DA95DB0051e4c713da32ed3e2Df",
+      "symbol": "OSMO",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0xE6c5A550ca454DA95DB0051e4c713da32ed3e2Df/logo.png"
+    },
+    {
       "name": "Test Token",
       "address": "0xcF5ef8d007a616066e5eaEa0916592374a0F478D",
       "symbol": "TST",
       "decimals": 18,
       "chainId": 9000,
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0xcF5ef8d007a616066e5eaEa0916592374a0F478D/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x2b60d7059A177348312d8aF0ec7C4a41EF26119D",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x2b60d7059A177348312d8aF0ec7C4a41EF26119D/logo.png"
+    },
+    {
+      "name": "USD Tether",
+      "address": "0x2c598B42CB7952E4F906FdEAF74a1Ed4c5966592",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x2c598B42CB7952E4F906FdEAF74a1Ed4c5966592/logo.png"
+    },
+    {
+      "name": "Terra USD",
+      "address": "0x9b131b7cC4874843a6d99BF24bBA4d28a540A041",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x9b131b7cC4874843a6d99BF24bBA4d28a540A041/logo.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "address": "0x57ec4cC022051a040bf953A13e167b8161B0C366",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 9000,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x57ec4cC022051a040bf953A13e167b8161B0C366/logo.png"
     },
     {
       "name": "Wrapped Evmos",
