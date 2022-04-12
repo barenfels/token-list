@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-04-12T15:08:24.867Z",
+  "timestamp": "2022-04-12T21:33:48.187Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -103,11 +103,11 @@
     },
     {
       "name": "tCronus",
-      "address": "0x616aC866aB53e7d3a6CD3A293536fcaD7eA85E10",
+      "address": "0x8D092da14C492e769436EA538B94637fA9d5A7e7",
       "symbol": "CRN",
       "decimals": 18,
       "chainId": 9000,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x616aC866aB53e7d3a6CD3A293536fcaD7eA85E10/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0x8D092da14C492e769436EA538B94637fA9d5A7e7/logo.png"
     },
     {
       "name": "Dai Stablecoin",
