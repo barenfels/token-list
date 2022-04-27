@@ -174,46 +174,6 @@
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0xcF5ef8d007a616066e5eaEa0916592374a0F478D/logo.png"
     },
     {
-      "name": "Dai Stablecoin | Celer",
-      "address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
-      "symbol": "ceDAI",
-      "decimals": 18,
-      "chainId": 9001,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8/logo.png"
-    },
-    {
-      "name": "USD Coin | Celer",
-      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
-      "symbol": "ceUSDC",
-      "decimals": 6,
-      "chainId": 9001,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52/logo.png"
-    },
-    {
-      "name": "Tether USD | Celer",
-      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
-      "symbol": "ceUSDT",
-      "decimals": 6,
-      "chainId": 9001,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E/logo.png"
-    },
-    {
-      "name": "Wrapped Bitcoin | Celer",
-      "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
-      "symbol": "ceWBTC",
-      "decimals": 8,
-      "chainId": 9001,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e/logo.png"
-    },
-    {
-      "name": "Wrapped Ether | Celer",
-      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
-      "symbol": "ceWETH",
-      "decimals": 18,
-      "chainId": 9001,
-      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb/logo.png"
-    },
-    {
       "name": "Dai Stablecoin | Nomad",
       "address": "0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA",
       "symbol": "madDAI",
@@ -276,6 +236,46 @@
       "decimals": 18,
       "chainId": 9001,
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin | Celer",
+      "address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
+      "symbol": "ceDAI",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8/logo.png"
+    },
+    {
+      "name": "USD Coin | Celer",
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "symbol": "ceUSDC",
+      "decimals": 6,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52/logo.png"
+    },
+    {
+      "name": "Tether USD | Celer",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "symbol": "ceUSDT",
+      "decimals": 6,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E/logo.png"
+    },
+    {
+      "name": "Wrapped Bitcoin | Celer",
+      "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
+      "symbol": "ceWBTC",
+      "decimals": 8,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e/logo.png"
+    },
+    {
+      "name": "Wrapped Ether | Celer",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "symbol": "ceWETH",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb/logo.png"
     }
   ]
 }
