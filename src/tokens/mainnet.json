@@ -64,43 +64,91 @@
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xd0ec216A38F199B0229AE668a96c3Cd9F9f118A6/logo.png"
     },
     {
-        "name": "Wrapped Ether | Celer",
-        "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+        "name": "Wrapped Ether | Celer cBridge",
+        "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
         "symbol": "ceWETH",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x6De33698e9e9b787e09d3Bd7771ef63557E148bb/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B/logo.png"
     },
     {
-        "name": "Wrapped Bitcoin | Celer",
-        "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
+        "name": "Wrapped Bitcoin | Celer cBridge",
+        "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
         "symbol": "ceWBTC",
         "decimals": 8,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b/logo.png"
     },
     {
-        "name": "USD Coin | Celer",
-        "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+        "name": "USD Coin | Celer cBridge",
+        "address": "0xe46910336479F254723710D57e7b683F3315b22B",
         "symbol": "ceUSDC",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xe46910336479F254723710D57e7b683F3315b22B/logo.png"
     },
     {
-        "name": "Tether USD | Celer",
-        "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+        "name": "Tether USD | Celer cBridge",
+        "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
         "symbol": "ceUSDT",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xb72A7567847abA28A2819B855D7fE679D4f59846/logo.png"
     },
     {
-        "name": "Dai Stablecoin | Celer",
-        "address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
+        "name": "Dai Stablecoin | Celer cBridge",
+        "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
         "symbol": "ceDAI",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x940dAAbA3F713abFabD79CdD991466fe698CBe54/logo.png"
+    },
+    {
+        "name": "Binance USD | Celer cBridge",
+        "address": "0x516e6D96896Aea92cE5e78B0348FD997F13802ad",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x516e6D96896Aea92cE5e78B0348FD997F13802ad/logo.png"
+    },
+    {
+        "name": "BNB | Celer cBridge",
+        "address": "0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4",
+        "symbol": "BNB",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x75364D4F779d0Bd0facD9a218c67f87dD9Aff3b4/logo.png"
+    },
+    {
+        "name": "Avalanche | Celer cBridge",
+        "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a/logo.png"
+    },
+    {
+        "name": "Fantom | Celer cBridge",
+        "address": "0x729416B1F442f204989f1C9f0d58321F878808eD",
+        "symbol": "FTM",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x729416B1F442f204989f1C9f0d58321F878808eD/logo.png"
+    },
+    {
+        "name": "Aurora | Celer cBridge",
+        "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
+        "symbol": "AURORA",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x48421FF1c6B93988138130865C4B7Cce10358271/logo.png"
+    },
+    {
+        "name": "Celer Network",
+        "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
+        "symbol": "CELR",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8/logo.png"
     }
 ]
