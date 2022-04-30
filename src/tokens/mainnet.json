@@ -150,5 +150,45 @@
         "decimals": 18,
         "chainId": 9001,
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8/logo.png"
+    },
+    {
+        "name": "Wrapped Ether | Multichain",
+        "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+        "symbol": "multiWETH",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
+    },
+    {
+        "name": "Wrapped Bitcoin | Multichain",
+        "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+        "symbol": "multiWBTC",
+        "decimals": 8,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png"
+    },
+    {
+        "name": "USD Coin | Multichain",
+        "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+        "symbol": "multiUSDC",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png"
+    },
+    {
+        "name": "Tether USD | Multichain",
+        "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+        "symbol": "multiUSDT",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png"
+    },
+    {
+        "name": "Dai Stablecoin | Multichain",
+        "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+        "symbol": "multiDAI",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x461d52769884ca6235B685EF2040F47d30C94EB5/logo.png"
     }
 ]
