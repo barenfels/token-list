@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-04-30T07:21:14.956Z",
+  "timestamp": "2022-04-30T21:59:37.049Z",
   "version": {
     "major": 2,
     "minor": 3,
@@ -252,6 +252,22 @@
       "decimals": 18,
       "chainId": 9001,
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B/logo.png"
+    },
+    {
+      "name": "Frax",
+      "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8/logo.png"
+    },
+    {
+      "name": "Frax Share",
+      "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C/logo.png"
     },
     {
       "name": "Fantom | Celer cBridge",

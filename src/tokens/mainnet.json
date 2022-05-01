@@ -190,5 +190,21 @@
         "decimals": 18,
         "chainId": 9001,
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x461d52769884ca6235B685EF2040F47d30C94EB5/logo.png"
+    },
+    {
+        "name": "Frax",
+        "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8/logo.png"
+    },
+    {
+        "name": "Frax Share",
+        "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C/logo.png"
     }
 ]
