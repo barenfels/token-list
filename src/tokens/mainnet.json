@@ -47,6 +47,14 @@
         "chainId": 9001,
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA/logo.png"
     },
+    ,   {
+      "name": "Evmos Frens",
+      "symbol": "eFrens",
+      "chainId": 9001,
+      "decimals": 9,
+      "address": "0x9a42dc12b9Dc20a59cB1Ff077DD283Cf5E61D768",
+      "logoURI": "https://raw.githubusercontent.com/AI0xFrens/NeuralAI/main/evmosFrens.png"
+    },
     {
         "name": "Frax | Nomad",
         "address": "0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3",
