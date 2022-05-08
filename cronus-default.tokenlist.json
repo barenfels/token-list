@@ -1,6 +1,6 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-05-03T11:48:31.431Z",
+  "timestamp": "2022-05-08T07:28:57.977Z",
   "version": {
     "major": 2,
     "minor": 4,
@@ -172,6 +172,14 @@
       "decimals": 18,
       "chainId": 9000,
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos_testnet/0xcF5ef8d007a616066e5eaEa0916592374a0F478D/logo.png"
+    },
+    {
+      "name": "Cronus Finance",
+      "address": "0x6e1d38718ee5dbD16D9277C7aeC74060012Ceae2",
+      "symbol": "aCRN",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x6e1d38718ee5dbD16D9277C7aeC74060012Ceae2/logo.png"
     },
     {
       "name": "Aurora | Celer cBridge",

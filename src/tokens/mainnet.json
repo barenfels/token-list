@@ -206,5 +206,13 @@
         "decimals": 18,
         "chainId": 9001,
         "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C/logo.png"
+    },
+    {
+        "name": "Cronus Finance",
+        "address": "0x6e1d38718ee5dbD16D9277C7aeC74060012Ceae2",
+        "symbol": "aCRN",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x6e1d38718ee5dbD16D9277C7aeC74060012Ceae2/logo.png"
     }
 ]
