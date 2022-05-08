@@ -1,9 +1,9 @@
 {
   "name": "Cronus Finance List",
-  "timestamp": "2022-05-08T07:28:57.977Z",
+  "timestamp": "2022-05-08T08:06:47.986Z",
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -260,6 +260,14 @@
       "decimals": 18,
       "chainId": 9001,
       "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B/logo.png"
+    },
+    {
+      "name": "Cronus Finance",
+      "address": "0x1488346419FFc85C6D54E71be80a222971fb2240",
+      "symbol": "CRN",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x1488346419FFc85C6D54E71be80a222971fb2240/logo.png"
     },
     {
       "name": "Frax",
